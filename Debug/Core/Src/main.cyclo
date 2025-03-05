@@ -1,0 +1,12 @@
+../Core/Src/main.c:83:5:main	25
+../Core/Src/main.c:291:6:SystemClock_Config	4
+../Core/Src/main.c:346:13:MX_I2C1_Init	4
+../Core/Src/main.c:394:13:MX_I2C3_Init	4
+../Core/Src/main.c:442:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:477:13:MX_GPIO_Init	1
+../Core/Src/main.c:513:6:DS1621_Init	1
+../Core/Src/main.c:520:5:DS1621_ReadTemp	1
+../Core/Src/main.c:530:6:SendTemperature	1
+../Core/Src/main.c:537:13:HAL_SYSTICK_Callback	1
+../Core/Src/main.c:542:13:HAL_GPIO_EXTI_Callback	1
+../Core/Src/main.c:556:6:Error_Handler	1

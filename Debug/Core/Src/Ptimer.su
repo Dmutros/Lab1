@@ -1,0 +1,4 @@
+../Core/Src/Ptimer.c:15:6:SetPTimer	24	static,ignoring_inline_asm
+../Core/Src/Ptimer.c:49:6:PTimer	16	static
+../Core/Src/Ptimer.c:72:6:InitPTimer	16	static
+../Core/Src/Ptimer.c:86:6:KillPTimer	24	static,ignoring_inline_asm
